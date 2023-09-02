@@ -18,6 +18,5 @@ Clone or download this repository to access the full source code. You'll also fi
 
 Stay Connected:
 Don't forget to like, share, and subscribe to our YouTube channel for more exciting tutorials and tech content. Stay tuned for upcoming projects and updates!
-
-Thank you for choosing our RGB to Hex Converter Android app project. Happy coding! 🚀🎨
+Happy coding! 🚀🎨
 
