@@ -10,6 +10,7 @@ Real-time color customization (adjust red, green, and blue components).
 An intuitive user interface for effortless navigation.
 YouTube Tutorial:
 This repository accompanies our YouTube tutorial on creating this app from scratch using Android Studio. Follow along with the video to understand each step of the development process.
+Link for the video: https://youtu.be/QWEDZ9TEgco
 
 Getting Started:
 Clone or download this repository to access the full source code. You'll also find detailed comments and documentation within the code to help you understand how it all works.
